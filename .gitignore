@@ -41,3 +41,16 @@
 /src
 /mapfile
 /tools/python/__pycache__/
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/settings.json
+.vscode/targets.log
+ffmpegchroma.sh
+ffmpegchroma2.sh
+hd_img_hari.jpg
+input_green.mp4
+out.mp4
+run_dummy.sh
+sea.mp4
+taj.mp4
+woman.mp4
