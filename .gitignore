@@ -41,3 +41,14 @@
 /src
 /mapfile
 /tools/python/__pycache__/
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/settings.json
+.vscode/targets.log
+mountain.jpg
+mountain.mp4
+mountain.png
+out.mp4
+output_image.jpg
+outtimo.mp4
+run_bilateral.sh
